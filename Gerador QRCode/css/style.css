@@ -1,0 +1,15 @@
+.qr-group > * {
+    display: table;
+    width: 70%;
+    text-align: center;
+    font-size: 9px;
+}
+.qr-group {
+    display: inline-block;
+    margin-right: 17px;
+	width: 77px;
+}
+.areaQR {
+    position: inherit;
+    margin-top: 20px;
+}
